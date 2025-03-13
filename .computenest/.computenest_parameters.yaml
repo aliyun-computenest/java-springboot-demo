@@ -5,10 +5,10 @@ ServicePorts:
 - 80
 ServiceType: private
 ArtifactSourceType: Buildpacks
-ServiceBuildRegion: ap-southeast-1
 RepoName: aliyun-computenest/java-springboot-demo
+ServiceBuildRegion: ap-southeast-1
 RegionId: cn-hangzhou
-CustomParameters: ''
+CustomParameters: []
 Owner: wenle
 Branch: main
 Platform: github
